@@ -24,6 +24,8 @@ This is useful for:
   - missing Git repositories
 - Telescope integration with `vim.ui.select` fallback
 
+---
+
 ## Installation
 
 ### lazy.nvim
